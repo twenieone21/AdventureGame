@@ -1,0 +1,12 @@
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.Properties.Resources.resources
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.GenerateResource.cache
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.CreditsForm.resources
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.SettingsForm.resources
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.AdventureGame.resources
