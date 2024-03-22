@@ -34,7 +34,9 @@ namespace AdventureGame
 
         private void startButton_Click(object sender, EventArgs e)
         {
+            GameForm gWindow = new GameForm();
 
+            gWindow.Show();
         }
 
         private void settingButton_Click(object sender, EventArgs e)

@@ -3,19 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|C:\\Users\\tweni\\source\\repos\\AdventureGame\\adventuregame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|c:\\users\\tweni\\source\\repos\\adventuregame\\adventuregame\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|C:\\Users\\tweni\\source\\repos\\AdventureGame\\adventuregame\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|c:\\users\\tweni\\source\\repos\\adventuregame\\adventuregame\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|c:\\users\\tweni\\source\\repos\\adventuregame\\adventuregame\\creditsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|C:\\Users\\tweni\\source\\repos\\AdventureGame\\adventuregame\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|C:\\Users\\tweni\\source\\repos\\AdventureGame\\adventuregame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|C:\\Users\\tweni\\source\\repos\\AdventureGame\\adventuregame\\creditsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\creditsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|c:\\users\\tweni\\source\\repos\\adventuregame\\adventuregame\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|C:\\Users\\tweni\\source\\repos\\AdventureGame\\adventuregame\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|c:\\users\\tweni\\source\\repos\\adventuregame\\adventuregame\\creditsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|c:\\users\\tweni\\source\\repos\\adventuregame\\adventuregame\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|C:\\Users\\tweni\\source\\repos\\AdventureGame\\adventuregame\\menuform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\menuform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|C:\\Users\\tweni\\source\\repos\\AdventureGame\\adventuregame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|C:\\Users\\tweni\\source\\repos\\AdventureGame\\adventuregame\\gameform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\gameform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|C:\\Users\\tweni\\source\\repos\\AdventureGame\\adventuregame\\creditsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1153AE4-927A-4420-907B-251A17DE2388}|AdventureGame\\AdventureGame.csproj|solutionrelative:adventuregame\\creditsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,11 +62,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\Program.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\Program.cs",
+              "ToolTip": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\Program.cs",
+              "RelativeToolTip": "AdventureGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:30:33.148Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\SettingsForm.cs",
+              "RelativeToolTip": "AdventureGame\\SettingsForm.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T12:30:49.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\GameForm.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\GameForm.cs",
+              "ToolTip": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\GameForm.cs",
+              "RelativeToolTip": "AdventureGame\\GameForm.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwv0sAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:25:20.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\GameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\GameForm.Designer.cs",
+              "RelativeToolTip": "AdventureGame\\GameForm.Designer.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAADgv1cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:25:17.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameForm.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\GameForm.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\GameForm.cs",
+              "ToolTip": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\GameForm.cs [Entwurf]",
+              "RelativeToolTip": "AdventureGame\\GameForm.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:22:36.742Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CreditsForm.cs [Entwurf]",
               "DocumentMoniker": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\CreditsForm.cs",
               "RelativeDocumentMoniker": "AdventureGame\\CreditsForm.cs",
@@ -42,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MenuForm.cs [Entwurf]",
               "DocumentMoniker": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\MenuForm.cs",
               "RelativeDocumentMoniker": "AdventureGame\\MenuForm.cs",
@@ -51,6 +152,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T21:10:42.857Z",
               "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "AdventureGame\\MenuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\MenuForm.Designer.cs",
+              "RelativeToolTip": "AdventureGame\\MenuForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:49:44.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -66,7 +180,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "MenuForm.resx",
+              "DocumentMoniker": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\MenuForm.resx",
+              "RelativeDocumentMoniker": "AdventureGame\\MenuForm.resx",
+              "ToolTip": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\MenuForm.resx",
+              "RelativeToolTip": "AdventureGame\\MenuForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-22T11:51:07.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "AdventureGame\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\Properties\\Resources.resx",
+              "RelativeToolTip": "AdventureGame\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-22T12:26:19.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameForm.resx",
+              "DocumentMoniker": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\GameForm.resx",
+              "RelativeDocumentMoniker": "AdventureGame\\GameForm.resx",
+              "ToolTip": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\GameForm.resx",
+              "RelativeToolTip": "AdventureGame\\GameForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-22T10:06:56.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CreditsForm.cs",
               "DocumentMoniker": "C:\\Users\\tweni\\source\\repos\\AdventureGame\\AdventureGame\\CreditsForm.cs",
               "RelativeDocumentMoniker": "AdventureGame\\CreditsForm.cs",

@@ -10,3 +10,4 @@ C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.
 C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.CreditsForm.resources
 C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.SettingsForm.resources
 C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.AdventureGame.resources
+C:\Users\tweni\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.GameForm.resources

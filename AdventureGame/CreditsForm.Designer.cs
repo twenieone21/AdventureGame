@@ -42,7 +42,7 @@
             this.creditsLabel.Name = "creditsLabel";
             this.creditsLabel.Size = new System.Drawing.Size(650, 80);
             this.creditsLabel.TabIndex = 0;
-            this.creditsLabel.Text = "Fragst du dich wer das coole Spiel gemacht hat?";
+            this.creditsLabel.Text = "Credits";
             this.creditsLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.creditsLabel.Click += new System.EventHandler(this.creditsLabel_Click);
             // 
